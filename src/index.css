@@ -1,0 +1,16 @@
+.box-wp {
+    display: inline-block;
+}
+.modal-box {
+    border: 1px solid gray;
+    padding: 5px 10px;
+    margin: 10px;
+}
+.arrow {
+    width: 50px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.box-wp:last-child .arrow {
+    display: none;
+}
