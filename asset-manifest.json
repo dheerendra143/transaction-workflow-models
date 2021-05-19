@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/transaction-workflow-models/static/css/main.c6f3e630.chunk.css",
+    "main.js": "/transaction-workflow-models/static/js/main.d0b31f19.chunk.js",
+    "main.js.map": "/transaction-workflow-models/static/js/main.d0b31f19.chunk.js.map",
+    "runtime-main.js": "/transaction-workflow-models/static/js/runtime-main.f7b54af5.js",
+    "runtime-main.js.map": "/transaction-workflow-models/static/js/runtime-main.f7b54af5.js.map",
+    "static/js/2.d95e26bd.chunk.js": "/transaction-workflow-models/static/js/2.d95e26bd.chunk.js",
+    "static/js/2.d95e26bd.chunk.js.map": "/transaction-workflow-models/static/js/2.d95e26bd.chunk.js.map",
+    "static/js/3.e9f6917a.chunk.js": "/transaction-workflow-models/static/js/3.e9f6917a.chunk.js",
+    "static/js/3.e9f6917a.chunk.js.map": "/transaction-workflow-models/static/js/3.e9f6917a.chunk.js.map",
+    "index.html": "/transaction-workflow-models/index.html",
+    "static/css/main.c6f3e630.chunk.css.map": "/transaction-workflow-models/static/css/main.c6f3e630.chunk.css.map",
+    "static/js/2.d95e26bd.chunk.js.LICENSE.txt": "/transaction-workflow-models/static/js/2.d95e26bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7b54af5.js",
+    "static/js/2.d95e26bd.chunk.js",
+    "static/css/main.c6f3e630.chunk.css",
+    "static/js/main.d0b31f19.chunk.js"
+  ]
+}
