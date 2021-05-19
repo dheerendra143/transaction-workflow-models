@@ -1,6 +1,6 @@
 {
   "homepage": "https://dheerendra143.github.io/transaction-workflow-models/",
-  "name": "ui-task",
+  "name": "transaction-workflow-models",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
