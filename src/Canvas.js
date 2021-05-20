@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import Download from './download';
 import { useSelector, useDispatch } from 'react-redux';
 import { add_entity } from './actions';
 
@@ -194,7 +193,7 @@ const Canvas = () => {
                         </section>
 
                     </section>
-                    <Download label={'Download Entity'} />
+                   
                 </section>
                 <section className="canvas-area" id="canvasArea">
                     <canvas id="canvas" width='800' height='500' style={{ border: '1px solid #000000' }}></canvas>
